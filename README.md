@@ -17,6 +17,9 @@
 - Visualize the AAPL stock price data over time using a line plot. This allows you to observe trends, patterns, and potential outliers in the historical prices.
 - Calculate and visualize daily returns, which show how much the stock price changes from one day to the next. This helps identify periods of growth and decline.
 
+![Stock price of AAPL](https://github.com/abhamidi-1234/Stock-Price-Prediction-using-Stacked-LSTM/blob/main/Capture1.PNG)
+![Daily returns of AAPL](https://github.com/abhamidi-1234/Stock-Price-Prediction-using-Stacked-LSTM/blob/main/Capture2.PNG)
+
 **Step 4: Data Normalization**
 
 - Normalize the 'Close' price data using Min-Max scaling. This scaling technique transforms the values to a consistent range between 0 and 1, making it easier for the neural network to learn.
@@ -55,3 +58,5 @@
 **Step 12: Result Visualization**
 
 - Finally, visualize the actual and predicted stock prices over time. Plotting these values on a graph allows you to assess how effectively the LSTM model predicts future stock prices based on historical data.
+
+![Predicted stock prices of AAPL](https://github.com/abhamidi-1234/Stock-Price-Prediction-using-Stacked-LSTM/blob/main/Capture3.PNG)
